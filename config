@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "orrigin"]
+	url = https://github.com/230104040220-beep/P3_BIGDATA.git
+	fetch = +refs/heads/*:refs/remotes/orrigin/*
+[remote "origin"]
+	url = https://github.com/230104040220-beep/P5_Bigdata_project.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
